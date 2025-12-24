@@ -1,2 +1,3 @@
 imdevops/hfish:latest
 imdevops/hfish
+ chinayin/hfish:2.6
