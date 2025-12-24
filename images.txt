@@ -1,1 +1,2 @@
- imdevops/hfish:latest
+imdevops/hfish:latest
+imdevops/hfish
